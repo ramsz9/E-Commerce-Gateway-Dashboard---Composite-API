@@ -1,0 +1,9 @@
+# Compilados de Maven (los tres microservicios)
+**/target/
+
+# Credenciales locales de PostgreSQL
+**/src/main/resources/application-dev.properties
+
+# Editores
+.vscode/
+.idea/
